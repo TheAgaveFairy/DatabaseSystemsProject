@@ -7,9 +7,9 @@ CREATE TABLE CUSTOMER(
 
 INSERT INTO CUSTOMER(CUSTOMER_ID, CUSTOMER_NAME, CUSTOMER_CONTACT, PRICE_TIER)
 VALUES
-(1, 'Customer Square 1', 'custsquare1@gmail.com', 1),
-(2, 'Customer Square 2', 'custsquare2@gmail.com', 1),
-(3, 'Customer Square 3', 'custsquare33@yahoo.com', 1),
+(1, 'Customer Square 1', 'custsquare1@databaseproject.com', 1),
+(2, 'Customer Square 2', 'custsquare2@databaseproject.com', 1),
+(3, 'Customer Square 3', 'custsquare3@databaseproject.com', 1),
 (4, 'Comedor', 'comedorLLC@hotmail.com', 2),
 (5, 'Seven Grand', 'seven7Grand@gmail.com',3),
 (6, 'Kemuri', 'kemuribusiness@kemuri.com', 3),
